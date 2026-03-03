@@ -10,7 +10,6 @@ This app allows users to create, read, update, and delete notes efficiently with
 - 📝 Edit existing notes
 - 🗑️ Delete notes
 - 💾 Local database using SQLite
-- 📱 Responsive UI
 - 🌙 Clean and modern design
 
 
